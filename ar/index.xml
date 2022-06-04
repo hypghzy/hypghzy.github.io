@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Bootstrap</title>
+    <link>http://brucehou.gitee.io/our_note/ar/</link>
+    <description>Recent content on Hugo Bootstrap</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2016-{year} Razon Yang. All Rights Reserved.</copyright>
+    <lastBuildDate>Mon, 09 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://brucehou.gitee.io/our_note/ar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>دليل الكتابة باستخدام ماركداون</title>
+      <link>http://brucehou.gitee.io/our_note/ar/posts/markdown-syntax/</link>
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://brucehou.gitee.io/our_note/ar/posts/markdown-syntax/</guid>
+      <description>&lt;p&gt;تعرض هذه المقالة أساسيات الكتابة بلغة ماركداون والتي يمكن استخدامها في ملفات المحتوى داخل هوجو، كما تعرض أيضا تنسيق عناصر HTML الأساسية باستخدام CSS في الثيم.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
