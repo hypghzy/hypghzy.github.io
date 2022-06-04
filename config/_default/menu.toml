@@ -1,0 +1,11 @@
+# ====================== Footer ====================== 
+
+[[footer]]
+  name = "笔记"
+  identifier = "notes"
+  weight = 1
+
+[[footer]]
+  name = "文档"
+  identifier = "docs"
+  weight = 2

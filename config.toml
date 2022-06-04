@@ -1,0 +1,5 @@
+baseURL = 'http://brucehou.gitee.io/our_note/'
+languageCode = 'zh-cn'
+title = 'My New Hugo Site'
+[build]
+  writeStats = true
